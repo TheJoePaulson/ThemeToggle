@@ -1,9 +1,12 @@
 # Toggle-Theme
 
-![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-5391FE?logo=powershell&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)
+![PowerShell 7+](https://img.shields.io/badge/PowerShell-7%2B-5391FE?logo=powershell&logoColor=white&style=flat-square)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11&logoColor=white&style=flat-square)
+![Custom Themes](https://img.shields.io/badge/Themes-Custom-blue?style=flat-square)
+![Registry Aware](https://img.shields.io/badge/Registry-Aware-success?style=flat-square)
+![Toast Notifications](https://img.shields.io/badge/BurntToast-Optional-orange?style=flat-square)
+![Portable](https://img.shields.io/badge/Portable-Yes-success?style=flat-square)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 Switch Windows 11 between a **Light** and **Dark** custom theme with one click. The switch applies right away, a toast notification confirms it, and the desktop shortcut icon swaps between a sun and a moon.
 
