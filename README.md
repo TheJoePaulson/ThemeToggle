@@ -14,8 +14,11 @@ Switch Windows 11 between a **Light** and **Dark** custom theme with one click. 
 
 ## Screenshot
 Create the toggle shortcut
+
 ![Create Toggle Shortcut](https://i.imgur.com/nXcUK41.png "Create Toggle Shortcut")
+
 Double Click shortcut to switch between light and dark desktop themes
+
 ![Double click to switch](https://i.imgur.com/5kkSwVl.png "Double click to switch")
 
 ## Features
